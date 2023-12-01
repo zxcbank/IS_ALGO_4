@@ -1,0 +1,3 @@
+C:/itmo/CLionProjects/IS_ALGO4/cmake-build-debug/CMakeFiles/IS_ALGO4.dir
+C:/itmo/CLionProjects/IS_ALGO4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/itmo/CLionProjects/IS_ALGO4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
